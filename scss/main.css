@@ -40,7 +40,7 @@ h1, h2 {
   --stat-neutral: hsla(0, 0%, 100%, 0.6);
 }
 
-.stats-card {
+main {
   height: 100vh;
   display: -webkit-box;
   display: -ms-flexbox;
